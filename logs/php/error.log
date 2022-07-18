@@ -1,0 +1,179 @@
+[13-Jul-2022 17:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gest_posts() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php:28
+Stack trace:
+#0 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\User\\L...', true, Array)
+#2 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php(2): get_header()
+#4 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#5 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#6 C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php(17): require('C:\\Users\\User\\L.. in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php on line 28
+[13-Jul-2022 17:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gest_posts() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php:28
+Stack trace:
+#0 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\User\\L...', true, Array)
+#2 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php(2): get_header()
+#4 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#5 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#6 C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php(17): require('C:\\Users\\User\\L.. in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php on line 28
+[13-Jul-2022 17:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gest_posts() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php:28
+Stack trace:
+#0 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\User\\L...', true, Array)
+#2 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\page.php(2): get_header()
+#4 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#5 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#6 C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php(17): require('C:\\Users\\User\\L... in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php on line 28
+[13-Jul-2022 17:56:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function gest_posts() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php:28
+Stack trace:
+#0 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\User\\L...', true, Array)
+#2 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php(2): get_header()
+#4 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#5 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#6 C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php(17): require('C:\\Users\\User\\L.. in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php on line 28
+[13-Jul-2022 17:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_excertp() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php:34
+Stack trace:
+#0 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\User\\L...', true, Array)
+#2 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php(2): get_header()
+#4 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\User\\L...')
+#5 C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#6 C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php(17): require('C:\\Users\\User\\L. in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\header.php on line 34
+[14-Jul-2022 13:27:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 15
+[14-Jul-2022 13:27:33 UTC] PHP Stack trace:
+[14-Jul-2022 13:27:33 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 13:27:33 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 13:27:33 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 13:27:33 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 13:35:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 15
+[14-Jul-2022 13:35:18 UTC] PHP Stack trace:
+[14-Jul-2022 13:35:18 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 13:35:18 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 13:35:18 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 13:35:18 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 13:35:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 13
+[14-Jul-2022 13:35:56 UTC] PHP Stack trace:
+[14-Jul-2022 13:35:56 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 13:35:56 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 13:35:56 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 13:35:56 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 13:43:37 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 24
+[14-Jul-2022 13:43:40 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 24
+[14-Jul-2022 13:44:11 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 24
+[14-Jul-2022 13:44:39 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 24
+[14-Jul-2022 15:29:57 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 15:30:58 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 15:32:59 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 15:34:59 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 15:37:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 15:39:02 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:47:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:47:39 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:48:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:48:39 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:48:43 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:48:44 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:49:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:50:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:51:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:53:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:55:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:57:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 16:59:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:00:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:02:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:04:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:06:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:08:01 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:17:26 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:17:56 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:17:57 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:18:27 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:20:28 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:22:29 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:24:30 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:24:33 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:25:35 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:25:55 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:26:11 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:26:35 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:26:36 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:26:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:28:37 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:30:38 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:32:39 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:34:40 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:44:38 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:44:38 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\functions.php on line 7
+[14-Jul-2022 17:44:57 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 52
+[14-Jul-2022 17:49:22 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 56
+[14-Jul-2022 17:49:57 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 56
+[14-Jul-2022 17:50:13 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 56
+[14-Jul-2022 17:53:20 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 58
+[14-Jul-2022 17:54:09 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 58
+[14-Jul-2022 17:55:05 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 58
+[14-Jul-2022 17:55:08 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 58
+[14-Jul-2022 17:55:33 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 58
+[14-Jul-2022 17:55:48 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 58
+[14-Jul-2022 18:00:34 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 58
+[14-Jul-2022 18:00:35 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 58
+[14-Jul-2022 18:02:23 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 60
+[14-Jul-2022 18:02:46 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 58
+[14-Jul-2022 18:12:10 UTC] PHP Parse error:  syntax error, unexpected ':' in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 49
+[14-Jul-2022 18:51:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\plugins\easy-image-gallery\includes\template-functions.php on line 95
+[14-Jul-2022 18:51:47 UTC] PHP Stack trace:
+[14-Jul-2022 18:51:47 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 18:51:47 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 18:51:47 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 18:51:47 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 18:51:47 UTC] PHP   5. easy_image_gallery_get_image_ids() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php:45
+[14-Jul-2022 18:51:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\plugins\easy-image-gallery\includes\template-functions.php on line 95
+[14-Jul-2022 18:51:48 UTC] PHP Stack trace:
+[14-Jul-2022 18:51:48 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 18:51:48 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 18:51:48 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 18:51:48 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 18:51:48 UTC] PHP   5. easy_image_gallery_get_image_ids() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php:45
+[14-Jul-2022 18:51:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\plugins\easy-image-gallery\includes\template-functions.php on line 95
+[14-Jul-2022 18:51:48 UTC] PHP Stack trace:
+[14-Jul-2022 18:51:48 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 18:51:48 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 18:51:48 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 18:51:48 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 18:51:48 UTC] PHP   5. easy_image_gallery_get_image_ids() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php:45
+[14-Jul-2022 18:51:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\plugins\easy-image-gallery\includes\template-functions.php on line 95
+[14-Jul-2022 18:51:48 UTC] PHP Stack trace:
+[14-Jul-2022 18:51:48 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 18:51:48 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 18:51:48 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 18:51:48 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 18:51:48 UTC] PHP   5. easy_image_gallery_get_image_ids() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php:45
+[14-Jul-2022 18:56:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 60
+[14-Jul-2022 18:56:53 UTC] PHP Stack trace:
+[14-Jul-2022 18:56:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 18:56:53 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 18:56:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 18:56:53 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 18:56:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 60
+[14-Jul-2022 18:56:53 UTC] PHP Stack trace:
+[14-Jul-2022 18:56:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 18:56:53 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 18:56:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 18:56:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 60
+[14-Jul-2022 18:56:53 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 18:56:53 UTC] PHP Stack trace:
+[14-Jul-2022 18:56:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 18:56:53 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 18:56:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 18:56:53 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 18:56:53 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 60
+[14-Jul-2022 18:56:53 UTC] PHP Stack trace:
+[14-Jul-2022 18:56:53 UTC] PHP   1. {main}() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:0
+[14-Jul-2022 18:56:53 UTC] PHP   2. require() C:\Users\User\Local Sites\iniciando-wordpress\app\public\index.php:17
+[14-Jul-2022 18:56:53 UTC] PHP   3. require_once() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-blog-header.php:19
+[14-Jul-2022 18:56:53 UTC] PHP   4. include() C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-includes\template-loader.php:106
+[14-Jul-2022 18:58:20 UTC] PHP Parse error:  syntax error, unexpected 'consulta' (T_STRING) in C:\Users\User\Local Sites\iniciando-wordpress\app\public\wp-content\themes\theme\index.php on line 36
